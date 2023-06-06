@@ -2,6 +2,7 @@
 VScode is amazing!! Let's get its best practice to make our dev life easier
 
 # Good extensions to install
+- Bracket Pair Colorizer 2: for color bracket
 - Prettier: for better color syntax 
 - Cobalt: For color theme
 - Material Icon Theme: for File icon theme
