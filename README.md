@@ -7,6 +7,8 @@ VScode is amazing!! Let's get its best practice to make our dev life easier
 - Material Icon Theme: for File icon theme
 - Git History
 - GitLens
+- HF Code Autocomplete
+- ESLint
 
 # Good setting and shorcut to know
 - Douple click on file to keep it on tab, 
@@ -25,3 +27,4 @@ VScode is amazing!! Let's get its best practice to make our dev life easier
     - Open the repository from terminal: code .
 
 - Write text in multiple place in Vscode: presse 'Alt' key
+- Move one line of code up and dow: Alt + Up/Down arrows
