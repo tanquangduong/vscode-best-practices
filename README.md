@@ -29,3 +29,34 @@ VScode is amazing!! Let's get its best practice to make our dev life easier
 
 - Write text in multiple place in Vscode: presse 'Alt' key
 - Move one line of code up and dow: Alt + Up/Down arrows
+
+# Pylint and Black for Python code formater
+- Create requirement_dev.txt:
+    - Pylint
+    - Black
+    - pycodestyle
+
+# Configure in settings.json
+```
+{
+    "editor.tabSize": 2,
+    "eslint.validate": [
+        "html",
+        "javascipt",
+        "javascriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestyleArgs": [
+        "--max-line-length=120"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "none",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
+}
+```
