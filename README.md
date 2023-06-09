@@ -31,6 +31,10 @@ VScode is amazing!! Let's get its best practice to make our dev life easier
 - Write text in multiple place in Vscode: presse 'Alt' key
 - Move one line of code up and dow: Alt + Up/Down arrows
 
+
+# Convert JSX to JS with babel
+- [babeljs](https://babeljs.io)
+
 # Pylint and Black for Python code formater
 - Create requirement_dev.txt:
     - Pylint
